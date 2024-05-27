@@ -4,8 +4,8 @@
 
 <br />
 <div align="center">
- <a href="https://app.daily.dev/mononokuma">
-   <img src="https://api.daily.dev/devcards/v2/DMEySfkP0murZQ6MrL1WW.png?type=wide&r=rgz" width="652" alt="Aries's Dev Card"/>
+ <a href="https://github.com/neilll24/WD---Seatwork-2">
+ 
  </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Formulating HTML</h3>
